@@ -1,6 +1,6 @@
 # mvn-config
 
-Parent of potentially any Team33 Maven project based on Java 8
+Parent of potentially any Team33 Maven project based on Java 17
 
 ## Change Log
 
