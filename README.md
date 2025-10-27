@@ -4,6 +4,10 @@ Parent of potentially any Team33 Maven project based on Java 17
 
 ## Change Log
 
+### 2.0.1
+
+* Updated central-publishing-maven-plugin to 0.9.0
+
 ### 2.0.0
 
 * maven.compiler.source: 17
