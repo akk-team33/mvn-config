@@ -1,8 +1,12 @@
 # mvn-config
 
-Parent of potentially any Team33 Maven project based on Java 17
+Parent of potentially any team33 maven project that is based on Java 17
 
 ## Change Log
+
+### 2.0.2
+
+* Updated dependency management
 
 ### 2.0.1
 
