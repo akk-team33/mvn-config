@@ -4,11 +4,11 @@
 
     <groupId>de.team33</groupId>
     <artifactId>mvn-config-alpha</artifactId>
-    <version>1.0.2</version>
+    <version>1.1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Team33 Maven Config</name>
-    <description>Parent of potentially any Team33 Maven project</description>
+    <description>Parent of potentially any team33 maven project that is based on java 8.</description>
     <url>https://github.com/akk-team33/mvn-config</url>
 
     <licenses>
