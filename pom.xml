@@ -4,11 +4,11 @@
 
     <groupId>de.team33</groupId>
     <artifactId>mvn-config-alpha</artifactId>
-    <version>2.0.3</version>
+    <version>3.1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Team33 Maven Config</name>
-    <description>Parent of potentially any team33 maven project that is based on Java 17.</description>
+    <description>Parent of potentially any team33 maven project that is based on Java 25.</description>
     <url>https://github.com/akk-team33/mvn-config</url>
 
     <licenses>
@@ -35,9 +35,9 @@
 
     <properties>
         <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <maven.compiler.release>17</maven.compiler.release>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
+        <maven.compiler.release>25</maven.compiler.release>
         <copyright.year>2026</copyright.year>
         <skipJavadoc>false</skipJavadoc>
         <skipHome>false</skipHome>

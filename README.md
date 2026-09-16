@@ -1,8 +1,14 @@
 # mvn-config
 
-Parent of potentially any team33 maven project that is based on Java 17
+Parent of potentially any team33 maven project that is based on Java 25
 
 ## Change Log
+
+### 3.0.3
+
+* maven.compiler.source: 25
+* maven.compiler.target: 25
+* maven.compiler.release: 25
 
 ### 2.0.3
 
